@@ -1,1 +1,1 @@
-# Тут находятся мои игры, написанные на Python.
+# Here are my games written in Python.
